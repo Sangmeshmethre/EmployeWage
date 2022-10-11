@@ -1,0 +1,15 @@
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\bin\Debug\net6.0\BasicProgram195Empoly.exe
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\bin\Debug\net6.0\BasicProgram195Empoly.deps.json
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\bin\Debug\net6.0\BasicProgram195Empoly.runtimeconfig.json
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\bin\Debug\net6.0\BasicProgram195Empoly.dll
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\bin\Debug\net6.0\BasicProgram195Empoly.pdb
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\obj\Debug\net6.0\BasicProgram195Empoly.csproj.AssemblyReference.cache
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\obj\Debug\net6.0\BasicProgram195Empoly.GeneratedMSBuildEditorConfig.editorconfig
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\obj\Debug\net6.0\BasicProgram195Empoly.AssemblyInfoInputs.cache
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\obj\Debug\net6.0\BasicProgram195Empoly.AssemblyInfo.cs
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\obj\Debug\net6.0\BasicProgram195Empoly.csproj.CoreCompileInputs.cache
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\obj\Debug\net6.0\BasicProgram195Empoly.dll
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\obj\Debug\net6.0\refint\BasicProgram195Empoly.dll
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\obj\Debug\net6.0\BasicProgram195Empoly.pdb
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\obj\Debug\net6.0\BasicProgram195Empoly.genruntimeconfig.cache
+F:\EmployeProgram\EmpUC1\BasicProgram195Empoly\obj\Debug\net6.0\ref\BasicProgram195Empoly.dll
