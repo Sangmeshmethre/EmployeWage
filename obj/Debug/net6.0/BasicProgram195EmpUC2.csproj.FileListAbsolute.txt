@@ -1,0 +1,15 @@
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\bin\Debug\net6.0\BasicProgram195EmpUC2.exe
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\bin\Debug\net6.0\BasicProgram195EmpUC2.deps.json
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\bin\Debug\net6.0\BasicProgram195EmpUC2.runtimeconfig.json
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\bin\Debug\net6.0\BasicProgram195EmpUC2.dll
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\bin\Debug\net6.0\BasicProgram195EmpUC2.pdb
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\obj\Debug\net6.0\BasicProgram195EmpUC2.csproj.AssemblyReference.cache
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\obj\Debug\net6.0\BasicProgram195EmpUC2.GeneratedMSBuildEditorConfig.editorconfig
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\obj\Debug\net6.0\BasicProgram195EmpUC2.AssemblyInfoInputs.cache
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\obj\Debug\net6.0\BasicProgram195EmpUC2.AssemblyInfo.cs
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\obj\Debug\net6.0\BasicProgram195EmpUC2.csproj.CoreCompileInputs.cache
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\obj\Debug\net6.0\BasicProgram195EmpUC2.dll
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\obj\Debug\net6.0\refint\BasicProgram195EmpUC2.dll
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\obj\Debug\net6.0\BasicProgram195EmpUC2.pdb
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\obj\Debug\net6.0\BasicProgram195EmpUC2.genruntimeconfig.cache
+F:\EmployeProgram\EmpUC2\BasicProgram195EmpUC2\obj\Debug\net6.0\ref\BasicProgram195EmpUC2.dll
