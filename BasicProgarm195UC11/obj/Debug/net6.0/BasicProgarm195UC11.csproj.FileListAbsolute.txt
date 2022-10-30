@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\bin\Debug\net6.0\BasicProgarm195UC11.exe
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\bin\Debug\net6.0\BasicProgarm195UC11.deps.json
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\bin\Debug\net6.0\BasicProgarm195UC11.runtimeconfig.json
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\bin\Debug\net6.0\BasicProgarm195UC11.dll
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\bin\Debug\net6.0\BasicProgarm195UC11.pdb
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\obj\Debug\net6.0\BasicProgarm195UC11.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\obj\Debug\net6.0\BasicProgarm195UC11.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\obj\Debug\net6.0\BasicProgarm195UC11.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\obj\Debug\net6.0\BasicProgarm195UC11.AssemblyInfo.cs
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\obj\Debug\net6.0\BasicProgarm195UC11.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\obj\Debug\net6.0\BasicProgarm195UC11.dll
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\obj\Debug\net6.0\refint\BasicProgarm195UC11.dll
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\obj\Debug\net6.0\BasicProgarm195UC11.pdb
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\obj\Debug\net6.0\BasicProgarm195UC11.genruntimeconfig.cache
+C:\LFP-195 Batch\EmployeWage\UC11\BasicProgarm195UC11\BasicProgarm195UC11\obj\Debug\net6.0\ref\BasicProgarm195UC11.dll
