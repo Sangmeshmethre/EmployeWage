@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\bin\Debug\net6.0\BasicProgram195BatchUC12.exe
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\bin\Debug\net6.0\BasicProgram195BatchUC12.deps.json
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\bin\Debug\net6.0\BasicProgram195BatchUC12.runtimeconfig.json
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\bin\Debug\net6.0\BasicProgram195BatchUC12.dll
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\bin\Debug\net6.0\BasicProgram195BatchUC12.pdb
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\obj\Debug\net6.0\BasicProgram195BatchUC12.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\obj\Debug\net6.0\BasicProgram195BatchUC12.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\obj\Debug\net6.0\BasicProgram195BatchUC12.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\obj\Debug\net6.0\BasicProgram195BatchUC12.AssemblyInfo.cs
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\obj\Debug\net6.0\BasicProgram195BatchUC12.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\obj\Debug\net6.0\BasicProgram195BatchUC12.dll
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\obj\Debug\net6.0\refint\BasicProgram195BatchUC12.dll
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\obj\Debug\net6.0\BasicProgram195BatchUC12.pdb
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\obj\Debug\net6.0\BasicProgram195BatchUC12.genruntimeconfig.cache
+C:\LFP-195 Batch\EmployeWage\UC12\BasicProgram195BatchUC12\BasicProgram195BatchUC12\obj\Debug\net6.0\ref\BasicProgram195BatchUC12.dll
