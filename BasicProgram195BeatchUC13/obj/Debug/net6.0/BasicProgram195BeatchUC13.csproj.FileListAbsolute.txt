@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\bin\Debug\net6.0\BasicProgram195BeatchUC13.exe
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\bin\Debug\net6.0\BasicProgram195BeatchUC13.deps.json
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\bin\Debug\net6.0\BasicProgram195BeatchUC13.runtimeconfig.json
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\bin\Debug\net6.0\BasicProgram195BeatchUC13.dll
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\bin\Debug\net6.0\BasicProgram195BeatchUC13.pdb
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\obj\Debug\net6.0\BasicProgram195BeatchUC13.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\obj\Debug\net6.0\BasicProgram195BeatchUC13.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\obj\Debug\net6.0\BasicProgram195BeatchUC13.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\obj\Debug\net6.0\BasicProgram195BeatchUC13.AssemblyInfo.cs
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\obj\Debug\net6.0\BasicProgram195BeatchUC13.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\obj\Debug\net6.0\BasicProgram195BeatchUC13.dll
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\obj\Debug\net6.0\refint\BasicProgram195BeatchUC13.dll
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\obj\Debug\net6.0\BasicProgram195BeatchUC13.pdb
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\obj\Debug\net6.0\BasicProgram195BeatchUC13.genruntimeconfig.cache
+C:\LFP-195 Batch\EmployeWage\UC13\BasicProgram195BeatchUC13\BasicProgram195BeatchUC13\obj\Debug\net6.0\ref\BasicProgram195BeatchUC13.dll
